@@ -2,3 +2,8 @@ p20
 Data ingestion in Hadoop:
 managing the data is the driven force around ->
 --managing the data is the driving force around
+
+Streaming and real-time analysis
+  where we have heavy continuous streaming data and have to be processed->
+--where we have heavy continuous streaming data that have to be processed
+
