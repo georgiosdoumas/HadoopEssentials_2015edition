@@ -1,0 +1,17 @@
+p21
+  Within the scope, the traditional systems are->
+--Within this scope, the traditional systems are
+p25
+Hadoop integration:
+  because although we can process the data efficiently in Hadoop, but we should also be able to send that result to another system->
+--because notonly  we want to process the data efficiently in Hadoop, but we should also be able to send that result to another system
+OR
+--because although we can process the data efficiently in Hadoop, we also desire to be able to send that result to another system
+p27
+Distributed programming:
+  Hadoop MapReduce is scalable and massively parallel processing framework, which can->
+--Hadoop MapReduce is a scalable and massively parallel processing framework, which can
+p28
+NoSQL databases:
+  one of the key component that provides a very flexible design and high volume simultaneous reads and write in low latency->
+--one of the key component that provides a very flexible design and high volume simultaneous reads and writes in low latency
