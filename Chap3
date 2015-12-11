@@ -1,0 +1,13 @@
+p37
+Data storage in HDFS:
+  The higher the number of the replication factor, the system
+  will be highly fault tolerant and will occupy that many numbers of time
+  the file is saved, and also increase the metadata in NameNode.
+[What an ungly sentence!Consider rephrasing it like this:]
+--The higher the number of the replication factor (number of times
+  the file is saved), the more fault tolerant the system will be, 
+  but will occupy that many times of disk space, and also increase the metadata in NameNode.
+p39
+Write pipeline:
+  In the figure, instead of FSDataInputStream, the blue box should say "FSDataOutputStream"
+
